@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BharPAi – Bharat Powered AI",
+  "description": "A responsive, modern, AI-powered website for BharPAi, an AI-driven technology solutions company. The website highlights AI-powered services tailored for small businesses, creators, and startups in India and beyond, featuring a vibrant, modern design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
